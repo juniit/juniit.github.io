@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Näidisleht</title>
+  <meta charset="UTF-8">
+</head>
+
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 2px;
+}
+div {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 75px;
+  margin-right: 75px;
+}
+</style>
+
+<body>
+<center>
+<h1>Lorem Ipsum</h1>
+<br />
+<table style="width:50%">
+  <tr>
+    <th>Nimi</th>
+    <th>Matriklinumber</th>
+  </tr>
+  <tr>
+    <td>Jürgen Niitvähi</td>
+    <td>193839</td>
+  </tr>
+</table>
+</center>
+<br />
+<br />
+<div><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent maximus neque ipsum, vitae tempor lectus efficitur ultricies. 
+Praesent aliquet est a mauris tempor, in dictum libero luctus. Nulla blandit consequat tellus id venenatis. 
+Nullam rutrum massa quis eros dignissim, ut commodo orci tempus. Praesent enim felis, dapibus at luctus et, egestas non lacus. 
+Suspendisse at rhoncus enim. Aliquam et leo congue, dapibus risus vitae, tincidunt leo. Mauris at condimentum leo, vitae placerat dolor. 
+Ut at feugiat orci. Aliquam vestibulum, nulla nec viverra posuere, metus libero lacinia ligula, a luctus nunc justo sed purus. 
+Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. 
+Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc vel nisi ac arcu tincidunt convallis.</p></div>
+<br />
+<br />
+<a href= http://www.ttu.ee>
+<center><img src="taltechlogo.jpg" alt="TalTech logo"></a>
+<p style="font-size:90%;">Klikka pildil, et külastada TalTech kodulehte! ^^</center>
+
+</body>
